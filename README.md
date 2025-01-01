@@ -25,11 +25,12 @@ This project provides a simple interface for converting MP3 and MP4 files to WAV
 
 2. Install the required packages:
    ```bash
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Set up your Azure Cognitive Services subscription key and region in the `speech_translation.py` file.
     ```bash
-    pip install -r requirements.txt
+    export SPEECH_KEY=your_subscription_key
+    export SPEECH_REGION=your_region
 
 4. Run the application:
    ```bash
