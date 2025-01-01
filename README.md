@@ -8,6 +8,10 @@ This project provides a simple interface for converting MP3 and MP4 files to WAV
 - Translate Chinese speech to English, Spanish, French, and German.
 - Save translations to a text file.
 
+## Screenshot
+
+![Screenshot](/Users/tal/Desktop/speech_translation_v1/Frontend_Screenshot.png)
+
 ## Prerequisites
 
 - Python 3.6 or higher
