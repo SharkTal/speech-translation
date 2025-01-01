@@ -1,0 +1,8 @@
+# Ignore all MP3 files
+*.mp3
+
+# Ignore all TXT files
+*.txt
+
+# Ignore the .env file (if you have one)
+.env
