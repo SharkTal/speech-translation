@@ -10,7 +10,7 @@ This project provides a simple interface for converting MP3 and MP4 files to WAV
 
 ## Screenshot
 
-![Screenshot](Frontend_screenshot.png)
+![Screenshot](https://github.com/SharkTal/speech-translation/blob/main/Frontend_Screenshot.png)
 
 ## Prerequisites
 
