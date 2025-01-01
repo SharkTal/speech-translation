@@ -10,7 +10,7 @@ This project provides a simple interface for converting MP3 and MP4 files to WAV
 
 ## Screenshot
 
-![Screenshot](/Users/tal/Desktop/speech_translation_v1/Frontend_Screenshot.png)
+![Screenshot](Frontend_screenshot.png)
 
 ## Prerequisites
 
